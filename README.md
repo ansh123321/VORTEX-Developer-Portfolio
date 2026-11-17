@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my development skills
 
 ## 🌐 Live Demo
 
-Coming soon — deployment with GitHub Pages.
+ https://ansh123321.github.io/VORTEX-Developer-Portfolio/
 
 ## ✨ Features
 
